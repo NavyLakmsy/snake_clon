@@ -10,3 +10,18 @@ body {
 .description {
     color: green; 
 }
+
+.center {
+    width: 100%;
+    text-align: center;
+}
+
+.center-tag {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.parent {
+    width: 100%;
+}
