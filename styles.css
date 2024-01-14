@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 30px;
+}
+
+.title {
+    color: greenyellow;
+}
+
+.description {
+    color: green; 
+}
